@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import logo from './logo.svg';
 import './App.css';
 
 // OpenWeather API Key를 여기에 입력하세요
