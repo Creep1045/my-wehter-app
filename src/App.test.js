@@ -7,3 +7,4 @@ test('renders search button', () => {
   const buttonElement = screen.getByText(/검색/i);
   expect(buttonElement).toBeInTheDocument();
 });
+
